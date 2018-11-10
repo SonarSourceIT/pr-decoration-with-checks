@@ -1,0 +1,432 @@
+public class Sample1 {
+
+  private int i;
+
+  private Sample1() {
+
+  }
+
+  public void hello1() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello2() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello3() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello4() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello5() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello6() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello7() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello8() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello9() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello10() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello11() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello12() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello13() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello14() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello15() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello16() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello17() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello18() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello19() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello20() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello21() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello22() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello23() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello24() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello25() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello26() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello27() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello28() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello29() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello30() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello31() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello32() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello33() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello34() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello35() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello36() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello37() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello38() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello39() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello40() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello41() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello42() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello43() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello44() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello45() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello46() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello47() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello48() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello49() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello50() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello51() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello52() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello53() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello54() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello55() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello56() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello57() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello58() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello59() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello60() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello61() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello62() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello63() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello64() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello65() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello66() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello67() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello68() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello69() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello70() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello71() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello72() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello73() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello74() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello75() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello76() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello77() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello78() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello79() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello80() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello81() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello82() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello83() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello84() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello85() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello86() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello87() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello88() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello89() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello90() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello91() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello92() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello93() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello94() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello95() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello96() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello97() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello98() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello99() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello100() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello101() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello102() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello103() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello104() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello105() {
+    System.out.println("hello" + " xoo");
+  }
+
+  public void hello106() {
+    System.out.println("hello" + " xoo");
+  }
+}
