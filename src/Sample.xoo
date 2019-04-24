@@ -1,9 +1,9 @@
 public class Sample1 {
 
   private int i;
-
+  
   private Sample1() {
-
+    // HOTSPOT
   }
 
   public void hello() {
